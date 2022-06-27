@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridView_kotlin</string>
+    <string name="push">push</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="send_to_second">Send to Second</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="send_to_first">Send to First</string>
+</resources>
